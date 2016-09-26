@@ -1,0 +1,6 @@
+D:\Code\EvoLeaveSolutions\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+D:\Code\EvoLeaveSolutions\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+D:\Code\EvoLeaveSolutions\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+D:\Code\EvoLeaveSolutions\SampleProject\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+D:\Code\EvoLeaveSolutions\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+D:\Code\EvoLeaveSolutions\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
